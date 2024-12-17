@@ -53,11 +53,6 @@ python main.py
 - **loss.wav**: Sound effect for losing a life.
 - **background_music.mp3**: Background music during gameplay.
 
-## Credits
-
-- **Author**: Aashutosh Singh Rawat
-- **License**: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 1. Fork the repository.
